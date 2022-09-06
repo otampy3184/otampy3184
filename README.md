@@ -5,4 +5,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=otampy3184&theme=tokyonight" width="500">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otampy3184&theme=tokyonight&layout=compact" width="550">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otampy3184&theme=tokyonight" width="500">
